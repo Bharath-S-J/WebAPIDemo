@@ -171,6 +171,4 @@ This API includes various filters for validation and error handling:
 - **Entity Framework Core** (for data handling)
 - **Filters** for validation and exception handling
 
-## License
-This project is open-source and available under the MIT License.
 
